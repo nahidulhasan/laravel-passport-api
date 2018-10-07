@@ -29,8 +29,8 @@ services:
           - "MYSQL_ROOT_PASSWORD=secret"
           - "MYSQL_DATABASE=laravel_passport"
         volumes:
-          - ${BACKUP_DATA_PATH}/mysql7:/var/lib/mysql
+          - ${BACKUP_DATA_PATH}/mysql8:/var/lib/mysql
         ports:
-          - "33060:3306"
+          - "33098:3306"
 
 
