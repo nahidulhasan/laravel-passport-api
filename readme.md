@@ -1,4 +1,4 @@
-# Laravel with Passport Authentication for API development
+# Laravel with Passport Authentication
 
 Basically this is a starter kit for you to integrate Laravel with Passport Authentication
 
