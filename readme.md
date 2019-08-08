@@ -6,7 +6,7 @@ Basically this is a starter kit for you to integrate Laravel with Passport Authe
 
 - Clone this repo or download it's release archive and extract it somewhere
 - You may delete .git folder if you get this code via git clone
-- Run composer install
+- Run composer install or composer update
 - Configure your .env file for authenticating via database
 - Run docker-compose build
 - Run docker-compose up -d
